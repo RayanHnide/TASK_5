@@ -1,0 +1,179 @@
+
+
+
+{
+  "corsesData": [
+    {
+
+      "number":"43",
+      "img": "https://www.vec.ca/wp-content/uploads/2019/03/English-Language-Level-System.jpg",
+      "lessonName":"English Course",
+      "numberOfStar":"4.3",
+
+      "title":"Education Program Title",
+      "subTitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, necessitatibus repellendus.",
+      "price":"123.2 $"
+    },
+    {
+
+      "number":"22",
+      "lessonName":"Math Course",
+      "numberOfStar":"4.3",
+      "img": "https://i0.wp.com/www.additudemag.com/wp-content/uploads/2021/09/GettyImages-1044168372.jpg",
+      "title":"Education Program Title",
+      "subTitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, necessitatibus repellendus.",
+      "price":"66.00 $"
+    },
+    {
+
+      "number":"76",
+      "lessonName":"History Course",
+      "numberOfStar":"4.3",
+      "img": "https://www.dundryprimary.co.uk/wp-content/uploads/2021/11/istockphoto-1092170968-612x612-1.jpg",
+      "title":"Education Program Title",
+      "subTitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, necessitatibus repellendus.",
+      "price":"87.00 $"
+    },
+    {
+
+      "number":"72",
+      "lessonName":"Marketing Course",
+      "numberOfStar":"4.3",
+      "img": "https://usa.bootcampcdn.com/wp-content/uploads/sites/119/2020/11/DM_blog_post_image_03.jpg",
+      "title":"Education Program Title",
+      "subTitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, necessitatibus repellendus.",
+      "price":"234.00 $"
+    },
+    {
+
+      "number":"36",
+      "lessonName":"Science Course",
+      "numberOfStar":"4.3",
+      "img": "https://www.training.com.au/wp-content/uploads/science-stem-feature.png",
+      "title":"Education Program Title",
+      "subTitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, necessitatibus repellendus.",
+      "price":"33.00 $"
+    },
+    {
+
+      "number":"79",
+      "lessonName":"Programming Course",
+      "numberOfStar":"4.3",
+      "img": "https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png",
+      "title":"Education Program Title",
+      "subTitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, necessitatibus repellendus.",
+      "price":"27.00 $"
+    }
+  ],
+  "teacherData": [
+    {
+      "img": "https://thumbs.dreamstime.com/b/teacher-9707054.jpg",
+      "name": "Mina Collins",
+      "jop": "  Music Teachers",
+      "description": "'Far far away,behind the word mountains,far fromthe countres vokalia and Consonantia ,there live the blind texts. Separated they live."
+    },
+    {
+      "img": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg",
+      "name": "  John Deu  ",
+      "jop": " History Teacher",
+      "description": "'Far far away,behind the word mountains,far fromthe countres vokalia and Consonantia ,there live the blind texts. Separated they live."
+    },
+    {
+      "img": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg",
+      "name": "Rama Deu",
+      "jop": "Science Teacher",
+      "description": "'Far far away,behind the word mountains,far fromthe countres vokalia and Consonantia ,there live the blind texts. Separated they live."
+    },
+    {
+      "img": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg",
+      "name": " mira Deu",
+      "jop": "Teachers in Math",
+      "description": "'Far far away,behind the word mountains,far fromthe countres vokalia and Consonantia ,there live the blind texts. Separated they live."
+    },
+    {
+      "img":"https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg",
+      "name": "   Deu Collins",
+      "jop": "Science Teacher",
+      "description": "'Far far away,behind the word mountains,far fromthe countres vokalia and Consonantia ,there live the blind texts. Separated they live."
+    },
+    {
+      "img":"https://media.sciencephoto.com/f0/28/38/95/f0283895-800px-wm.jpg",
+      "name": "Nebrass  John  ",
+      "jop": "Mathematics Teacher",
+      "description": "'Far far away,behind the word mountains,far fromthe countres vokalia and Consonantia ,there live the blind texts. Separated they live."
+    }
+
+  ],
+  "studntsInfo": [
+    {
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "age": "22",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Rayan Hndie",
+      "email": "Rayan@april.biz",
+      "age": "22",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "age": "11",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "age": "32",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "age": "13",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Glenna Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "age": "17",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "age": "5",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "age": "15",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    },
+    {
+      "name": "Considine-Lockman",
+      "username": "Kamren",
+      "email": "Karley_Dach@jasper.info",
+      "age": "15",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio harum hic magni molestiae nam sequi vel! Amet deleniti hic laudantium"
+
+    }
+  ]
+
+
+}
+
+
+

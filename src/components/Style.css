@@ -1,0 +1,10 @@
+link{
+    text-decoration: none;
+}
+.colorChange{
+    background: #e8e8e8; !important;
+
+     transition: 0.5s all;
+    color: white !important;
+
+}
